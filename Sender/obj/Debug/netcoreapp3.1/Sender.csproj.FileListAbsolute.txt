@@ -1,0 +1,12 @@
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.exe
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.deps.json
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.dll
+C:\Users\madhu\source\repos\SenderReceiver\Bin\netcoreapp3.1\Sender.pdb
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\madhu\source\repos\SenderReceiver\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
